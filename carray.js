@@ -7,7 +7,7 @@ function CArray(numElements) {
    this.clear = clear;
    this.setData = setData;
    this.swap = swap;
-   this.bubbleSort = bubbleSort;
+   this.bubbleSort = bubbleSort;//added all Sort files to main file
    this.selectionSort = selectionSort;
    this.insertionSort = insertionSort;
    this.mergeSort = mergeSort;
