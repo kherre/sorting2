@@ -17,3 +17,5 @@ vara=[]; for(vari=0;i<10;++i){
        a[i] = Math.floor((Math.random()*100)+1);
     }
 print(a);
+print();
+print(qSort(a));
